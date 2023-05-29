@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>Weather</title>
+  <meta charset="UTF-8">  
 </head>
 <body>
   <h1>Weather</h1>
