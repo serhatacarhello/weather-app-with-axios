@@ -1,0 +1,7 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.card {
+   min-width: 200px;
+  min-height: 300px;    
+}
+
